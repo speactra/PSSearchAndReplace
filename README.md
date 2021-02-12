@@ -1,7 +1,6 @@
 # PSSearchAndReplace
 ----------------------
 A search and replace tool using powershell.
-/Alexander Eriksson 2021-02-12
 ----------------------
 
 ## Required files:
