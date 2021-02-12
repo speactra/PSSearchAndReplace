@@ -5,7 +5,7 @@ A search and replace tool using powershell.
 
 ## Required files:
  - dictionary.csv, allows for both strings and/or regex-syntax
- - extensions.csv, e.g. \*.txt, text.*, *text* or text.txt
+ - extensions.csv, e.g. \*.txt, text.\*, \*text\* or text.txt
 
 ## Instructions:
  - Edit dictionary.csv with the desired vales for Search and Replace
